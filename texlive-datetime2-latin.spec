@@ -3,7 +3,7 @@ Version:	47748
 Release:	2
 Summary:	Latin language module for the datetime2 package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-latin
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/datetime2-latin
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-latin.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/datetime2-latin.doc.r%{version}.tar.xz
